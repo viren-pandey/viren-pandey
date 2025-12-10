@@ -14,7 +14,7 @@ I’m always exploring something — from **machine learning & data analytics** 
 ## Skills & Technologies
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,linux,vim,emacs,mysql,matlab,opencv,pytorch,sklearn,tensorflow&perline=7" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,java,javascript,typescript,panda,matlab,opencv,pytorch,tensorflow&perline=7" />
   </a>
 </p>
 
