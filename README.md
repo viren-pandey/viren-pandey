@@ -1,16 +1,30 @@
-## Hi , I'm Viren ✨
- Currently Pursuing B.TECH CSE(AIML) </br>
- I usually Read</br>
- 
-## 🌐 Socials:
- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_virenn7) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pandeyviren68@gmail.com) 
+## Hi there! 👋
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=viren-pandey&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=viren-pandey&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=viren-pandey&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I’m **Viren**, a curious engineer & tech enthusiast who loves building cool things, learning new skills, and making ideas come to life. ✨
+I’m always exploring something — from **machine learning & data analytics** to **graphics, simulation, and creative coding**. When I’m not coding, you’ll probably find me playing table Cricet , or Sleeping 🐾💕
 
----
-[![](https://visitcount.itsvg.in/api?id=viren-pandey&icon=0&color=0)](https://visitcount.itsvg.in)
+## About Me
+- 🎓 Second-year undergrad at **AKTU**, majoring in **Computer Science & Engineering With Speciallization in Artifical Intelligence & Machine Learning**
+- 🤖 Passionate about **Machine Learning, Computer Vision & Data Science**
+- 🌱 Learning **algorithms, ML fundamentals & deep learning** step by step
+- 💡 Love solving problems & participating in competitions
+- 🌈 Always excited to collaborate and build something meaningful
+- 🏓 A Cricket Fan
+
+## Skills & Technologies
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,linux,vim,emacs,mysql,matlab,opencv,pytorch,sklearn,tensorflow&perline=7" />
+  </a>
+</p>
+
+## Connect with me
+<p align="center">
+<a href="https://linkedin.com/in/viren-pandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="debosmita-roy-403846358" height="30" width="40" /></a>
+</p>
+
+## Stats
+
+![](https://github-readme-stats.vercel.app/api?username=viren-pandey&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=viren-pandey&theme=gotham&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=viren-pandey&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
