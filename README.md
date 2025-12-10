@@ -1,7 +1,7 @@
 ## Hi there! 👋
 
 I’m **Viren**, a curious engineer & tech enthusiast who loves building cool things, learning new skills, and making ideas come to life. ✨
-I’m always exploring something — from **machine learning & data analytics** to **graphics, simulation, and creative coding**. When I’m not coding, you’ll probably find me playing table Cricet , or Sleeping 🐾💕
+I’m always exploring something — from **machine learning & data analytics** to **graphics, simulation, and creative coding**. When I’m not coding, you’ll probably find me playing table Cricket , or Sleeping 🐾💕
 
 ## About Me
 - 🎓 Second-year undergrad at **AKTU**, majoring in **Computer Science & Engineering With Speciallization in Artifical Intelligence & Machine Learning**
@@ -14,7 +14,7 @@ I’m always exploring something — from **machine learning & data analytics** 
 ## Skills & Technologies
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,java,javascript,typescript,panda,matlab,opencv,pytorch,tensorflow&perline=7" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,java,javascript,typescript,matlab,opencv,pytorch,tensorflow&perline=6" />
   </a>
 </p>
 
@@ -28,3 +28,4 @@ I’m always exploring something — from **machine learning & data analytics** 
 ![](https://github-readme-stats.vercel.app/api?username=viren-pandey&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=viren-pandey&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=viren-pandey&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
