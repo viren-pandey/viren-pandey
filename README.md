@@ -1,4 +1,4 @@
-## Hi there! 👋
+## Hi There! 👋
 
 I’m **Viren**, a curious engineer & tech enthusiast who loves building cool things, learning new skills, and making ideas come to life. ✨
 I’m always exploring something — from **machine learning & data analytics** to **graphics, simulation, and creative coding**. When I’m not coding, you’ll probably find me playing table Cricket , or Sleeping 🐾💕
