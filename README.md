@@ -5,7 +5,7 @@ I’m always exploring something — from **machine learning & data analytics** 
 
 ## About Me
 - 🎓 Second-year undergrad at **AKTU**, majoring in **Computer Science & Engineering With Speciallization in Artifical Intelligence & Machine Learning**
-- 🤖 Passionate about **Machine Learning, Computer Vision & Data Science**
+- 🤖 Passionate about ** CS Fundamentals , Machine Learning and LLMs**
 - 🌱 Learning **algorithms, ML fundamentals & deep learning** step by step
 - 💡 Love solving problems & participating in competitions
 - 🌈 Always excited to collaborate and build something meaningful
