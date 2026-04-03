@@ -18,7 +18,9 @@ I’m always exploring something — from **machine learning & data analytics** 
   </a>
 </p>
 
+<p align="center">
 <img src="https://counter.kuber.studio/viren-pandey/light/count.svg" alt="Profile views" />  
+</p>
 
 ## Connect with me
 <p align="center">
