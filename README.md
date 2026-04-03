@@ -18,6 +18,8 @@ I’m always exploring something — from **machine learning & data analytics** 
   </a>
 </p>
 
+<img src="https://counter.kuber.studio/viren-pandey/light/count.svg" alt="Profile views" />  
+
 ## Connect with me
 <p align="center">
 <a href="https://linkedin.com/in/viren-pandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="debosmita-roy-403846358" height="30" width="40" /></a>
