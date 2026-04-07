@@ -29,7 +29,4 @@ I’m always exploring something — from **machine learning & data analytics** 
 
 ## Stats
 
-![](https://github-readme-stats.vercel.app/api?username=viren-pandey&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=viren-pandey&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=viren-pandey&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+<img src="https://streak-stats.demolab.com?user=viren-pandey&theme=default&hide_border=true" alt="viren-pandey's GitHub Stats" />
